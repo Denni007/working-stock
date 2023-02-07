@@ -130,6 +130,7 @@
     "typescript": "^4.4.4"
   },
   "overrides": {
+    "@svgr/webpack": "^6.5.0",
     "@react-pdf/font": "2.2.1",
     "@react-pdf/pdfkit": "2.1.0"
 }
